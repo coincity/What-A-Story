@@ -1,7 +1,7 @@
 <?php
 $config = array(
   // Title of the site
-  "Site_Title" => "What-A-Story",
+  "Site_Title" => "Xtelegraph",
 
   // Author and description of the site, which are meta tags in head
   "Site_Author" => "",
@@ -22,7 +22,7 @@ $config = array(
   // Is debug enabled?
   "Debug" => false,
   // Current timezone
-  "Timezone" => "Europe/Budapest",
+  "Timezone" => "Europe/Madrid",
   // Date show type on view page
   "DateShowTypeView" => "F j, Y"
 
