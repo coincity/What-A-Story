@@ -31,7 +31,7 @@ $og_author = $get_data["author"];
 mysqli_close($sql);
 ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
   <meta charset="utf-8">
   <title><?php echo $config["Site_Title"]; ?></title>
