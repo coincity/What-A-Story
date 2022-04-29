@@ -7,8 +7,8 @@ $config = array(
   "Site_Author" => "",
   "Site_Description" => "",
 
-  // Language of the site || en: English, hu: Hungarian
-  "Site_Language" => "en",
+  // Language of the site || en: English, hu: Hungarian, es: Spanish
+  "Site_Language" => "es",
 
   // Is the site offline? If true, a message will appear on the homepage
   "Is_Offline" => false,
